@@ -1,0 +1,1 @@
+Não foram geradas imagens artificiais de profissional ou consultório. O retrato e a galeria são referências ao acervo original. Não há necessidade de inventar uma nova mascote. Solicitar arquivo oficial da marca com fundo transparente para finalizar o cabeçalho.

@@ -1,0 +1,52 @@
+[
+  {
+    "width": 360,
+    "height": 640,
+    "scrollWidth": 360,
+    "h1": 1,
+    "ctaTop": 371,
+    "ctaBottom": 423,
+    "ctaHeight": 52,
+    "ctaVisible": true,
+    "brokenAnchors": 0,
+    "images": 19,
+    "imagesWithAlt": 19,
+    "menu": true,
+    "questionario": true,
+    "mapaIframe": true,
+    "jsErrors": []
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 390,
+    "h1": 1,
+    "ctaTop": 378,
+    "ctaBottom": 430,
+    "ctaHeight": 52,
+    "ctaVisible": true,
+    "brokenAnchors": 0,
+    "images": 19,
+    "imagesWithAlt": 19,
+    "menu": true,
+    "questionario": true,
+    "mapaIframe": true,
+    "jsErrors": []
+  },
+  {
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1440,
+    "h1": 1,
+    "ctaTop": 567,
+    "ctaBottom": 619,
+    "ctaHeight": 52,
+    "ctaVisible": true,
+    "brokenAnchors": 0,
+    "images": 19,
+    "imagesWithAlt": 19,
+    "questionario": true,
+    "mapaIframe": true,
+    "jsErrors": []
+  }
+]
